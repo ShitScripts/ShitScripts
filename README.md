@@ -4,9 +4,11 @@
 - Discord bots
 - Other dumb shit
 
-![noah being dumb](/../image/image.png)
 > "I like men" - Soules
-> "Fuck off" - ShitScripts
+
+![soules being dumb](/../image/image.png)
+
+
 <!---
 i love monkeys
 --->
