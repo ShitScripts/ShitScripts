@@ -3,11 +3,10 @@
 - Projects
 - Discord bots
 - Other dumb shit
-<picture srcset="/../image/image.png">
-  <source>
- </picture>
-> We serve food here sir.
-> 
+
+![noah being dumb](/../image/image.png)
+> "I like men" - Soules
+> "Fuck off" - ShitScripts
 <!---
 i love monkeys
 --->
